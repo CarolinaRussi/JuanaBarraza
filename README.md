@@ -1,8 +1,8 @@
 # JuanaBarraza
 
-Colecionador de ossos
+Canal Colecionador de Ossos
 
-# Fontes e Referências:
+# Fontes e Referências da matéria:
 
 https://www.bbc.com/mundo/noticias-56980069
 
